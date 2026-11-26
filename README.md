@@ -36,4 +36,4 @@ npm run dev
 
 ## Deployment
 
-pushing to main runs the GitHub Actions workflow which builds and deploys to GitHub Pages
+pushing to main runs the GitHub Actions workflow which builds the site and pushes it to the gh-pages branch
